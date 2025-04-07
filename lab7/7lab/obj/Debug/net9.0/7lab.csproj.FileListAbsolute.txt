@@ -1,0 +1,14 @@
+D:\KPI\2sem\OP\lab7\7lab\bin\Debug\net9.0\7lab.exe
+D:\KPI\2sem\OP\lab7\7lab\bin\Debug\net9.0\7lab.deps.json
+D:\KPI\2sem\OP\lab7\7lab\bin\Debug\net9.0\7lab.runtimeconfig.json
+D:\KPI\2sem\OP\lab7\7lab\bin\Debug\net9.0\7lab.dll
+D:\KPI\2sem\OP\lab7\7lab\bin\Debug\net9.0\7lab.pdb
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.AssemblyInfoInputs.cache
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.AssemblyInfo.cs
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.csproj.CoreCompileInputs.cache
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.dll
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\refint\7lab.dll
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.pdb
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\7lab.genruntimeconfig.cache
+D:\KPI\2sem\OP\lab7\7lab\obj\Debug\net9.0\ref\7lab.dll
