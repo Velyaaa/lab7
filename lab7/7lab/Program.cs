@@ -13,22 +13,6 @@
         list.AddFirst(4.96);
         list.AddFirst(-77.96);
 
-
-
-
-        /***************************************************************************************************
-        /* Shift + Alt + A  -  бінд на коментування */
-       
-
-        /* list.AddFirst(1110.22);
-        list.AddFirst(465.25);
-        list.AddFirst(3.57);
-        list.AddFirst(73.23);
-        list.AddFirst(2.82);
-        list.AddFirst(143.84);
-        list.AddFirst(4.96);
-        list.AddFirst(77.96); */
-
         Console.WriteLine("\n<------------------------------------------------------>");
         Console.WriteLine("Створений список:");
         list.PrintList();
