@@ -38,13 +38,6 @@ class LinkedList
         count++;
     }
 
-    public void Clear()
-    {
-        head = null;
-        count = 0;
-    }
-
-
     public void RemoveByIndex(int index)
     {
         if (index < 0 || index >= count)
